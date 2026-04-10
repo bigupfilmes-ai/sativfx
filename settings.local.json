@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -sI \"https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@300;400;500&display=swap\")",
+      "Bash(curl -sI \"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4\")",
+      "Bash(curl -sI \"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4\")",
+      "Bash(curl -sI \"https://sample-videos.com/video321/mp4/720/big_buck_bunny_720p_1mb.mp4\")",
+      "Bash(curl -sI \"https://media.learningcontainer.com/sample-video.mp4\")",
+      "Bash(curl -sI \"https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4\")",
+      "Bash(curl -sI \"https://www.w3schools.com/html/movie.mp4\")",
+      "WebFetch(domain:tunjayork.tv)",
+      "Bash(curl -s \"https://vimeo.com/912334704\")",
+      "Bash(start index.html)"
+    ]
+  }
+}
